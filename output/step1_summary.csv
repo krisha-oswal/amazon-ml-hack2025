@@ -1,0 +1,2 @@
+total_samples,price_min,price_max,price_mean,price_median,price_std,outliers_count,outliers_pct
+75000,0.13,2796.0,23.647654,14.0,33.37693218315573,5524,7.365333333333333
