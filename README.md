@@ -83,7 +83,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18%
 
 ### **Academic Integrity and Fair Play:**
 
-**⚠️ STRICTLY PROHIBITED: External Price Lookup**
+** STRICTLY PROHIBITED: External Price Lookup**
 
 Participants are **STRICTLY NOT ALLOWED** to obtain prices from the internet, external databases, or any sources outside the provided dataset. This includes but is not limited to:
 - Web scraping product prices from e-commerce websites
